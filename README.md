@@ -1,30 +1,11 @@
-Agency Jekyll theme
-====================
+# Collaborative Research: CPS: Medium: Sensor Attack Detection and Recovery in Cyber-Physical Systems
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+### NSF 2143274 and NSF 2143256
 
-# How to use
+Collaborative research by University of Pennsylvania and Syracuse University. We aim to design state-aware attack detection and recovery in general CPS.Collaborative
 
-###Portfolio 
+[View website here](https://cpsrecovery.github.io)
 
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Enabled by [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/)
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
